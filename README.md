@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil!
 
-Olá! Eu sou Luizinho e atualmente estou iniciando minha jornada no desenvolvimento web focando no front-end. Meu objetivo é me tornar um desenvolvedor fullstack, explorando também o back-end com Node.js no futuro.
+Olá! Eu sou Luiz e atualmente estou iniciando minha jornada no desenvolvimento web focando no front-end. Meu objetivo é me tornar um desenvolvedor fullstack, explorando também o back-end com Node.js no futuro.
 
 ## Sobre Mim
 
